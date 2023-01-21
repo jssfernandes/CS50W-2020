@@ -2,7 +2,7 @@
 
 Arquivos do curso CS50W 2020
 
-1. Watch HTML, CSS.
+[1. Watch HTML, CSS.](https://cdn.cs50.net/web/2020/spring/lectures/0/lecture0-720p.mp4.download)
 2. Watch Git.
 3. Watch Python. Submit Project 0.
 4. Watch Django. Submit Project 1.
