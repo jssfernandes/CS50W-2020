@@ -1,6 +1,6 @@
 # CS50W-2020
 
-Arquivos do curso CS50W 2020
+[Arquivos do curso CS50W 2020](https://learning.edx.org/course/course-v1:HarvardX+CS50W+Web/home)
 
 ### Videos aulas em 4k
 1. [Watch HTML, CSS.](https://cdn.cs50.net/web/2020/spring/lectures/0/lecture0-4k.mp4)
