@@ -48,3 +48,4 @@ Arquivos do curso CS50W 2020
 7. [Watch User Interfaces. Submit Project 3.](https://cdn.cs50.net/web/2020/spring/lectures/6/lecture6-360p.mp4)
 8. [Watch Testing, CI/CD. Submit Project 4.](https://cdn.cs50.net/web/2020/spring/lectures/7/lecture7-360p.mp4)
 9. [Watch Scalability and Security. Submit the Final Project.](https://cdn.cs50.net/web/2020/spring/lectures/8/lecture8-360p.mp4)
+
